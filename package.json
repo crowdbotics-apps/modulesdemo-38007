@@ -13,6 +13,7 @@
   },
   "dependencies": {
     "@modules/appointment": "file:./modules/appointment/",
+    "@modules/fingerprint-authentication": "file:./modules/fingerprint-authentication/",
     "@react-native-community/masked-view": "^0.1.10",
     "@react-native-google-signin/google-signin": "7.2.2",
     "@react-navigation/native": "^5.9.3",
@@ -26,6 +27,7 @@
     "react-native-calendars": "1.1282.0",
     "react-native-dotenv": "^2.5.3",
     "react-native-elements": "^3.3.1",
+    "react-native-fingerprint-scanner": "6.0.0",
     "react-native-gesture-handler": "^1.10.3",
     "react-native-pager-view": "5.4.15",
     "react-native-radio-buttons-group": "^2.2.11",
