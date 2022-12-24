@@ -62,6 +62,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [django-contact-us](backend/modules)
 - [react-native-fingerprint-authentication](modules/fingerprint-authentication)
 - [react-native-push-notifications](modules/push-notifications)
+- [react-native-wallet-connect](modules/wallet-connect)
 
 # Getting started: Frontend
 
